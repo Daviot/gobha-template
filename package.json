@@ -2,10 +2,12 @@
   "name": "gobha-template",
   "version": "1.0.0",
   "description": "Replace Handlebar partials in the layouts and applys layouts to the files. Clone of metalsmith-layouts",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Daviot/gobha-partials.git"
   },
+  "main": "lib/index.js",
+  "directories": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
