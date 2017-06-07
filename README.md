@@ -1,6 +1,6 @@
 # gobha-template
 
-A [Metalsmith](www.metalsmith.io) plugin to generate navigations in metalsmith from meta informations
+A [Metalsmith](www.metalsmith.io) plugin to replace Handlebar partials in the layouts and applys layouts to the files. Clone of metalsmith-layouts
 
 ## Installation
 

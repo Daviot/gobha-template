@@ -4,7 +4,7 @@
   "description": "Replace Handlebar partials in the layouts and applys layouts to the files. Clone of metalsmith-layouts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Daviot/gobha-partials.git"
+    "url": "https://github.com/Daviot/gobha-template.git"
   },
   "main": "lib/index.js",
   "directories": {},
