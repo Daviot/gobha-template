@@ -1,6 +1,6 @@
 {
   "name": "gobha-template",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Replace Handlebar partials in the layouts and applys layouts to the files. Clone of metalsmith-layouts",
   "repository": {
     "type": "git",
